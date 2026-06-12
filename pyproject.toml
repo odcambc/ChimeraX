@@ -101,7 +101,7 @@ wheel = [
   "pyopenxr==1.1.4501",
   "tcia_utils==1.5.1",
   "python-dateutil==2.9.0.post0",
-  "requests==2.32.3",
+  "requests==2.33.0",
   "scipy==1.14.0",
   "six==1.16.0",
   "sortedcontainers==2.4.0",
